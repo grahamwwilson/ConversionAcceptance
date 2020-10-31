@@ -1,0 +1,10 @@
+./cl.sh acceptance
+
+compiles the code and links against ROOT libraries, 
+producing an executable named ./acceptance
+
+When executed, by doing
+./acceptance
+this produces a ROOT file called acceptance.root.
+
+Currently the R value is hard-coded as 16.2 cm.
